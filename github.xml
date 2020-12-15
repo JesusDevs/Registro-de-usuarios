@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="4e94c640-b65f-4d54-bdf1-e1dee01d588d" name="polarizado">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
